@@ -1,0 +1,7 @@
+obj\Release\NormalUI.wixobj
+obj\Release\Product.wixobj
+C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\WixInstallerSetup\bin\Release\HashCalculator-Setup.msi
+C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\WixInstallerSetup\bin\Release\HashCalculator-Setup.wixpdb
+obj\Release\WixInstallerSetup.wixproj.BindContentsFileListja-JP.txt
+obj\Release\WixInstallerSetup.wixproj.BindOutputsFileListja-JP.txt
+obj\Release\WixInstallerSetup.wixproj.BindBuiltOutputsFileListja-JP.txt
