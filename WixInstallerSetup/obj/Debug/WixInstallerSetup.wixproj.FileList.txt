@@ -1,0 +1,2 @@
+obj\Debug\NormalUI.wixobj
+obj\Debug\Product.wixobj
