@@ -1,0 +1,2 @@
+C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\WixInstallerSetup\bin\x64\Release\HashCalculator-Setup.msi
+C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\WixInstallerSetup\bin\x64\Release\HashCalculator-Setup.wixpdb

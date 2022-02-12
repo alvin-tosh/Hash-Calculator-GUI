@@ -10,3 +10,4 @@ C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\Hash\o
 C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\Hash\obj\x64\Release\Hash.csproj.CoreCompileInputs.cache
 C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\Hash\obj\x64\Release\Hash.exe
 C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\Hash\obj\x64\Release\Hash.pdb
+C:\Users\hibi_\Google ドライブ\Program\VisualStudio\source\repos\Hash\Hash\obj\x64\Release\Hash.csproj.AssemblyReference.cache
