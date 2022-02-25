@@ -1,0 +1,3 @@
+..\Hash\bin\x64\Release\Hash.exe
+.\HashCalculator.lnk
+.\HashCalculator.lnk
